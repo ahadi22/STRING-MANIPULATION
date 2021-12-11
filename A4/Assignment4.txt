@@ -1,7 +1,7 @@
 //DECLARATION
-Dim str1 As String
-Dim char1, char2, char3 As Character
-Dim counter, mrc, i, j As Integer
+DECLARE str1 As String
+DECLARE char1, char2, char3 As Character
+DECLARE counter, mrc, i, j As Integer
 
 //INITIALISATION
 str1 = ""
